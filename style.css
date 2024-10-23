@@ -1,0 +1,10 @@
+body{
+background-color: cadetblue;
+}
+.my_class{
+color: cyan;font-family:sans-serif;font-size:40px;
+}
+p,h2{
+font-size:medium;color:cyan;
+
+}
